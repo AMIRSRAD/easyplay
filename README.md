@@ -6,11 +6,12 @@ make sure you have your discord open on the text-channel you want to play your s
 select your prefered discord bot (the bot must already be in your discord server)<br />
 import songs in each line <br />
 press start<br />
-do not anything untill you see the 'done' popup<br />
+do not press anything untill you see the 'done' popup<br />
 
+you can change dark/light mode & and the accent color in the settings tab
 
 <br /><br />
 ![Screenshot 2023-02-08 200349](https://user-images.githubusercontent.com/115648246/217592822-d5562e7b-a399-4753-ba1e-508906aadadc.png)
 
 
-you can change dark/light mode & and the accent color in the settings tab
+
