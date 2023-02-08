@@ -9,7 +9,7 @@ press start<br />
 do not press anything untill you see the 'done' popup<br />
 
 you can change dark/light mode & the accent color in the settings tab<br />
-link to download the .exe of the app <br /> ----> https://www.dropbox.com/s/j1yt57b11430lxk/easy-play.zip?dl=0<br />
+link to download the .exe of the app ----> https://www.dropbox.com/s/j1yt57b11430lxk/easy-play.zip?dl=0<br />
 <br /><br />
 ![Screenshot 2023-02-08 200349](https://user-images.githubusercontent.com/115648246/217592822-d5562e7b-a399-4753-ba1e-508906aadadc.png)
 
