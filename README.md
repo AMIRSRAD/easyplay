@@ -11,3 +11,6 @@ do not anything untill you see the 'done' popup
 
 
 ![Screenshot 2023-02-08 200349](https://user-images.githubusercontent.com/115648246/217592822-d5562e7b-a399-4753-ba1e-508906aadadc.png)
+
+
+you can change dark/light mode & and the accent color in the settings tab
