@@ -8,7 +8,7 @@ import songs in each line <br />
 press start<br />
 do not press anything untill you see the 'done' popup<br />
 
-you can change dark/light mode & and the accent color in the settings tab
+you can change dark/light mode & the accent color in the settings tab
 
 <br /><br />
 ![Screenshot 2023-02-08 200349](https://user-images.githubusercontent.com/115648246/217592822-d5562e7b-a399-4753-ba1e-508906aadadc.png)
